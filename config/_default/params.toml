@@ -18,7 +18,7 @@ subtitle = "来自一个咸鱼开发者的独白"
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "https://avatars.githubusercontent.com/u/58517274?v=4"
 
 [article]
 math = false
